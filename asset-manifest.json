@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/surajptl/my-react-tutorial.github.io/static/css/main.53574754.chunk.css",
+    "main.js": "/surajptl/my-react-tutorial.github.io/static/js/main.85bfa427.chunk.js",
+    "main.js.map": "/surajptl/my-react-tutorial.github.io/static/js/main.85bfa427.chunk.js.map",
+    "runtime-main.js": "/surajptl/my-react-tutorial.github.io/static/js/runtime-main.9bf5878a.js",
+    "runtime-main.js.map": "/surajptl/my-react-tutorial.github.io/static/js/runtime-main.9bf5878a.js.map",
+    "static/js/2.67691ccd.chunk.js": "/surajptl/my-react-tutorial.github.io/static/js/2.67691ccd.chunk.js",
+    "static/js/2.67691ccd.chunk.js.map": "/surajptl/my-react-tutorial.github.io/static/js/2.67691ccd.chunk.js.map",
+    "index.html": "/surajptl/my-react-tutorial.github.io/index.html",
+    "precache-manifest.9b5c6fdaa8c49c9a8f109c056be7ac3d.js": "/surajptl/my-react-tutorial.github.io/precache-manifest.9b5c6fdaa8c49c9a8f109c056be7ac3d.js",
+    "service-worker.js": "/surajptl/my-react-tutorial.github.io/service-worker.js",
+    "static/css/main.53574754.chunk.css.map": "/surajptl/my-react-tutorial.github.io/static/css/main.53574754.chunk.css.map",
+    "static/js/2.67691ccd.chunk.js.LICENSE.txt": "/surajptl/my-react-tutorial.github.io/static/js/2.67691ccd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bf5878a.js",
+    "static/js/2.67691ccd.chunk.js",
+    "static/css/main.53574754.chunk.css",
+    "static/js/main.85bfa427.chunk.js"
+  ]
+}
