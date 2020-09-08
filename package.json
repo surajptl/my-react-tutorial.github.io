@@ -10,11 +10,19 @@
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.3"
   },
+  "homepage": "https://github.com/surajptl/my-react-tutorial.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh": "^2.8.6",
+    "gh-pages": "^3.1.0",
+    "pages": "0.0.16"
   },
   "eslintConfig": {
     "extends": "react-app"
